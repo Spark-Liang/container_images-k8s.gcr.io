@@ -1,0 +1,1 @@
+FROM k8s-staging-sig-storage/local-volume-provisioner:v2.4.0
